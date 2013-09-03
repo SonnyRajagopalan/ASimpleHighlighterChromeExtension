@@ -1,0 +1,11 @@
+License:
+========
+MIT license (permissive).
+
+Features to add (current as of 09/03/2013):
+===========================================
+(a) Should span DOM elements correctly.
+(b) Should highlight only if triggered on.
+(c) Choose the color of the highlight.
+(d) Save and load the highlighted page (to help print the page with the highlights).
+(e) Allow annotations. User clicks at a spot where she would like to annotate. A text box pops up and is saved with the annotated document.
